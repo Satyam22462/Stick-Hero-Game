@@ -7,7 +7,7 @@
 
 
 
-Main Features:
+
 Game Scenes:
 
 The game seems to have at least three scenes represented by different FXML files (Scene1.fxml, Scene2.fxml, and Scene3.fxml).
